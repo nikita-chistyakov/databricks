@@ -1,4 +1,4 @@
-# databricks quick overview :
+# databricks platform overview :
 
 - Popular option for Enterprise data architecture
 - Birth of Lakehouse (built on top of Datalake / giving architecture flexibility and performance of warehouse / provides single platform)
